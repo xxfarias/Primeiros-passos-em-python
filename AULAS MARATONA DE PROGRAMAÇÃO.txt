@@ -1,0 +1,14 @@
+<---------------------- PROFESSOR BOSSINI ------------------------------->
+AULA 27/04
+
+EXERCICIO 1
+SAIDA "Hello,s", onde S seja um nome digitado por nós.
+
+Resposta:
+nome = input()
+print ("Hello, " + nome, end = "")
+
+//esse end = "" é para não pular linha
+
+EXEMPLO
+n1 = int(input())
