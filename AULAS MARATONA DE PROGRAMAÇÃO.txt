@@ -2,7 +2,17 @@
 AULA 27/04
 
 EXERCICIO 1
-SAIDA "Hello,s", onde S seja um nome digitado por nós.
+Entrada
+A entrada contém uma única linha contendo um nome de estudante s. 
+Saída
+Seu programa deve exibir “Hello, s”. No lugar da letra s, o programa deve exibir o nome lido. As aspas não devem ser exibidas. Não deve haver espaço em branco no final da linha. A saída não deve conter linhas em branco.
+
+Exemplo
+Entrada
+Afonso
+
+Saída
+Hello, Afonso
 
 Resposta:
 nome = input()
@@ -12,3 +22,13 @@ print ("Hello, " + nome, end = "")
 
 EXEMPLO
 n1 = int(input())
+
+
+Links da maratona: http://maratona.rodrigobossini.com.br/boca/
+
+Seus dados de acesso são:
+Usuário: team50036
+Senha: slimystick23
+
+
+
