@@ -1,0 +1,18 @@
+# Anotações de aula - 03 Python
+
+# print('Olá, mundo!')
+# print('4'+'3')
+# print(4+3)
+
+# nome=input("Qual o seu nome? ")
+# idade=input("Qual a sua idade? ")
+# peso=input("Qual o seu peso? Em kg ")
+# print('Olá, '+nome+" seu peso é "+peso+'kg e você tem '+idade+" anos")
+
+# nome = 'Guilherme'
+# idade = 19
+# peso = 65.5
+# print(nome, idade , peso, end = "")
+
+
+# //esse end = "" é para não pular linha
